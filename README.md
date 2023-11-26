@@ -7,3 +7,5 @@ Parę słów o mnie
 - 🌱 Konto służy do zapoznania się z możliwościami githuba w ramach zajęć
 - 💬 Zainteresowania: Dermokonsultacja, genetyka, pianino i literatura
 - ⚡ Ulubione zwierzę: pantera śnieżna
+
+- [MOJA STRONA](irvinnee.github.io/)
