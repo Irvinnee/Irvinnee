@@ -8,4 +8,4 @@ Parę słów o mnie
 - 💬 Zainteresowania: Dermokonsultacja, genetyka, pianino i literatura
 - ⚡ Ulubione zwierzę: pantera śnieżna
 
-- [MOJA STRONA](irvinnee.github.io/)
+- [MOJA STRONA](https://irvinnee.github.io/)
