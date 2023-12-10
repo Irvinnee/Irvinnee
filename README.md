@@ -10,5 +10,6 @@ Parę słów o mnie
 
 - [MOJA STRONA](https://irvinnee.github.io/)
 
-[Link do Repozytorium](https://github.com/Irvinnee/music-artist-classification-crnn)
+[Link do Forka](https://github.com/Irvinnee/music-artist-classification-crnn)
+[Link do oryginalnego repozytorium](https://github.com/ZainNasrullah/music-artist-classification-crnn)
 [Link do strony wybranego artykułu](https://paperswithcode.com/paper/music-artist-classification-with)
